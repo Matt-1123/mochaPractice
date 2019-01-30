@@ -1,0 +1,14 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "convert f to c and c to f",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matt Russo",
+  "license": "ISC"
+}
